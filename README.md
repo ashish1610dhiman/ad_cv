@@ -1,7 +1,4 @@
----
-layout: cv
-title: Ashish Dhiman's CV
----
+
 # Ashish Dhiman
 Optmisation, Explainable AI, Data Science, Credit Risk, Geopoloitics Enthusiast.
 
