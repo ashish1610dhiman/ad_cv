@@ -2,7 +2,7 @@
 
 _Optmisation, Explainable AI, Data Science, Credit Risk, Geopoloitics Enthusiast_ <br>
 
-📧[Email](mailto:ashish1610dhiman@gmail.com)  | 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) | 🔗[GitHub](https://github.com/ashish1610dhiman/) | 📞[+91-9805441123](+91-9805441123)
+📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+91-9805441123](+91-9805441123)
 
 <br>
 
@@ -100,8 +100,8 @@ demographics of zip-code, and proximity of ATMs to economic hubs, information sc
 <br>
 
 ## 🖥️ Computer Skills
-- **Programming languages:** C | Python | MATLAB | Scala | SQL | R | SAS | Octave | LATEX
-- **Software/Frameworks:** AWS | Spark | Hive | Tableau | VBA | Deepnote | Google Colab
+- **Programming languages:** C / Python / MATLAB / Scala / SQL / R / SAS / Octave / LATEX
+- **Software/Frameworks:** AWS / Spark / Hive / Tableau / VBA / Deepnote / Google Colab
 
 <br>
 
