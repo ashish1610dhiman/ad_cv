@@ -2,9 +2,9 @@
 
 _Optmisation, Explainable AI, Data Science, Credit Risk, Geopoloitics Enthusiast_ <br>
 
-📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+91-9805441123](+91-9805441123)
+📧[Email](mailto:ashish1610dhiman@gmail.com)  | 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) | 🔗[GitHub](https://github.com/ashish1610dhiman/) | 📞[+91-9805441123](+91-9805441123)
 
-## Objective
+## ♾️ Objective
 To expand my Data Science knowledge base and gain expertise in **Optimisation Methods and Explainable Machine Learning** and be at the forefront of research in the said domains. The skill-set and networking connections developed during my graduate education will help me land applied research roles in coveted firms. Working with top minds from across the world would hone my technical skills, and access to varied perspectives shall help me evolve and broaden my mindset, eventually allowing me to make progress on my start up idea on mental health.
 
 <br>
@@ -91,6 +91,6 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
 ## 📌 On The Side
 - Conducted biweekly education sessions in the neighbouring rural areas of IIT-KGP as an NSS Volunteer b/w 2015-2017. 
 - Guided 5 juniors on the emotional & academic fronts in their first year at IIT-KGP as a Student Welfare Group volunteer. 
-- Inter Hall events (IIT Kharagpur): Gold in Ad-Design 2017, Gold and Bronze in Case Study 2018 & 2017 respectively. 
+- Inter Hall events (IIT Kharagpur): 🥇Gold in Ad-Design 2017, 🥇Gold and 🥉Bronze in Case Study 2018 & 2017 respectively. 
 - Secured 3rd prize, HULT(2018) campus round,for a product to increase efficiency of last-leg vaccination outreach in India. 
 - Designed a portable & durable water filter, suitable to be used in rural parts of India for access to clean drinking water. • Selected in final 10 teams of Economist, a pan India case study competition on analysis of Reliance Jio (Kshitij, IIT KGP).
