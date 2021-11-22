@@ -16,7 +16,8 @@ B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisat
 
 
 <br>
-## Research Experience
+
+## 📖 Research Experience
 
 **Research Intern** @ [University of Otago, Dunedin, New Zealand]_(May 2019 — Jul 2019)_ <br>
 [Professor Stephen Cranefield, Department of Information Science](https://www.otago.ac.nz/info-science/about/stephen-cranefield.html)
