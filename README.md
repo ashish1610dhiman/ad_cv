@@ -35,7 +35,7 @@ technique to sample the posterior distribution of Candidate Norms, by observing 
 Kernel Search framework to improve the return per unit risk performance by 12% over the vanilla Kernel Search method.
   - Formulated the EIT as a Mono-Objective Linear optimisation, leveraging a weighted Risk & Return objective function.
   - Used the dimension-reduction strategies of Nonnegative Principal Component Analysis (NPCA) and Nonnegative Matrix factorisation (NMF), to emphasize the long-run performance of securities while suppressing the short-term noise.
-    - **_Technologies used:_** Python, R, Linear & Convex Optimisation, NMF/NPCA, Kernel Search Methods.
+  - **_Technologies used:_** Python, R, Linear & Convex Optimisation, NMF/NPCA, Kernel Search Methods.
 <br><br>
 
 ## 👩🏼‍💻 Work Experience
