@@ -19,7 +19,7 @@ B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisat
 
 ## 📖 Research Experience
 
-**Research Intern** @ [University of Otago, Dunedin, New Zealand]_(May 2019 — Jul 2019)_ <br>
+**Research Intern** @ University of Otago, Dunedin, New Zealand _(May 2019 — Jul 2019)_ <br>
 [Professor Stephen Cranefield, Department of Information Science](https://www.otago.ac.nz/info-science/about/stephen-cranefield.html)
   - Researched on a novel approach to learn arbitrarily complex Norms from a Normative Language, expressed as a Probabilistic Context-Free Grammar(PCFG), in the setting of Multi-Agent Societies. Paper published in proceedings of [IJCAI’21](https://www.ijcai.org/proceedings/2021/17).
   - Modeled Norms as expressions from a recursive grammar space (PCFG) and applied Monte Carlo Markov Chain (MCMC)
@@ -29,7 +29,7 @@ technique to sample the posterior distribution of Candidate Norms, by observing 
 <br><br>
 
 
-**Bachelor’s Dissertation** @ [IIT Kharagpur, West Bengal, India]_(Aug 2018 — May 2019)_ <br>
+**Bachelor’s Dissertation** @ IIT Kharagpur, West Bengal, India _(Aug 2018 — May 2019)_ <br>
 [Professor Sujoy Bhattacharya, Vinod Gupta School of Management, IIT Kharagpur](http://www.iitkgp.ac.in/department/BM/faculty/bm-sujoybtc)
   -  Examined Enhanced Index Tracking (EIT), a class of Optimal Portfolio Selection problems, and modified the heuristic
 Kernel Search framework to improve the return per unit risk performance by 12% over the vanilla Kernel Search method.
@@ -40,7 +40,7 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
 
 ## 👩🏼‍💻 Work Experience
 
-**Assistant Manager** @ [American Express India, Gurgoan, India]_(Aug 2021 — Present)_ <br>
+**Assistant Manager** @ American Express India, Gurgoan, India _(Aug 2021 — Present)_ <br>
 [Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
   - Envisaged and implemented a novel domain of information source by transforming the trade level supplementary and joint account linkages present on the Experian bureau’s end to create an inter-customer linkage relationship graph.
   - Leveraged the inter-customer relationship graph to create modeling attributes based on primary and secondary linkages, helping prevent annual credit default of $2.5 million, along with better identification of Credit Bust Out(CBO) fraud.
@@ -48,10 +48,31 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
   - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
 <br><br>
 
-**Assistant Manager** @ [American Express India, Gurgoan, India]_(Jul 2019 — Jul 2021)_ <br>
+**Assistant Manager** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
 [Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
   - Implemented a Payment Relief model, on Experian’s end, to identify customers enrolled in Covid-19 Payment Relief programs of external Creditors, by using tradeline level history of monthly balances, payments and account status codes.
   - Developed an automated pipeline to, parse risk triggers from the Bureau related to External Covid Relief Programs, generate an MIS report, and share it with the leaders in real time, with the anomalous sections highlighted.
   - Improved the accuracy of dollar predictions of External Payments model by 7%, through implementing Synthetic Minority Over sampling technique(SMOTE), for people with actual payment reports available.
  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
 <br><br>
+
+### :gear: Internships
+
+<br>
+
+## 🏆 Accomplishments
+
+- Achieved an All India Rank within Top 0.5% in the JEE 2015, among the 1.3 million registered applicants.
+- Received letter of appreciation (2015) from HRD Minister, Government of India, for exceptional performance in Class 12.
+- Awarded Gymkhana Award, 2019 for outstanding contribution to Technology events, during the 4 years stay at IIT KGP. 
+- Awarded Analyst of Quarter (Q3’2020), and Senior Vice President Award (Q1’2021) by American Express.
+<br><br>
+
+<br>
+
+## 📌 On The Side
+- Conducted biweekly education sessions in the neighbouring rural areas of IIT-KGP as an NSS Volunteer b/w 2015-2017. 
+- Guided 5 juniors on the emotional & academic fronts in their first year at IIT-KGP as a Student Welfare Group volunteer. 
+- Inter Hall events (IIT Kharagpur): Gold in Ad-Design 2017 | Gold and Bronze in Case Study 2018 & 2017 respectively. 
+- Secured 3rd prize, HULT(2018) campus round,for a product to increase efficiency of last-leg vaccination outreach in India. 
+- Designed a portable & durable water filter, suitable to be used in rural parts of India for access to clean drinking water. • Selected in final 10 teams of Economist, a pan India case study competition on analysis of Reliance Jio (Kshitij, IIT KGP).
