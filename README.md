@@ -107,12 +107,12 @@ demographics of zip-code, and proximity of ATMs to economic hubs, information sc
 
 ## 📜 Publications & Certifications
 1. Cranefield, S. & Dhiman, A. Identifying Norms from Observation Using MCMC Sampling (ed Zhou, Z.-H.) Main Track, 118–124. <https://doi.org/10.24963/ijcai.2021/17> (Aug. 2021).
-2. Machine Learning 2016. https://coursera.org/share/50963ab3926e11775951a32b5cd82d28.
-3. Fundamentals of Quantitative Modeling 2017. https://coursera.org/share/587a2a6d86792ad9de9d88a269cc0297.
-4. Basic Data Descriptors and Statistical Distributions 2018. https://coursera.org/share/4f972c591b3fb10cb13a0a18f16f679f.
-5. Bayesian Methods for Machine Learning 2020. https://coursera.org/share/8b85193f4feff4b50a434bd0ddba3f00.
-6. Machine Learning with Python 2020. https://coursera.org/share/4b8ee67654d6fc864b75a0771a0e48b0.
-7. Big Data Analysis with Scala and Spark 2020. https://coursera.org/share/d1afd1c66d70f68b0ddb9731aa580a34.
+2. Machine Learning 2016. <https://coursera.org/share/50963ab3926e11775951a32b5cd82d28>.
+3. Fundamentals of Quantitative Modeling 2017. <https://coursera.org/share/587a2a6d86792ad9de9d88a269cc0297>.
+4. Basic Data Descriptors and Statistical Distributions 2018. <https://coursera.org/share/4f972c591b3fb10cb13a0a18f16f679f>.
+5. Bayesian Methods for Machine Learning 2020. <https://coursera.org/share/8b85193f4feff4b50a434bd0ddba3f00>.
+6. Machine Learning with Python 2020. <https://coursera.org/share/4b8ee67654d6fc864b75a0771a0e48b0>.
+7. Big Data Analysis with Scala and Spark 2020. <https://coursera.org/share/d1afd1c66d70f68b0ddb9731aa580a34><.
 
 <br>
 
