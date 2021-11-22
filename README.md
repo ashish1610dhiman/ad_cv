@@ -4,6 +4,8 @@ _Optmisation, Explainable AI, Data Science, Credit Risk, Geopoloitics Enthusiast
 
 📧[Email](mailto:ashish1610dhiman@gmail.com)  | 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) | 🔗[GitHub](https://github.com/ashish1610dhiman/) | 📞[+91-9805441123](+91-9805441123)
 
+<br>
+
 ## ♾️ Objective
 To expand my Data Science knowledge base and gain expertise in **Optimisation Methods and Explainable Machine Learning** and be at the forefront of research in the said domains. The skill-set and networking connections developed during my graduate education will help me land applied research roles in coveted firms. Working with top minds from across the world would hone my technical skills, and access to varied perspectives shall help me evolve and broaden my mindset, eventually allowing me to make progress on my start up idea on mental health.
 
@@ -80,13 +82,26 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
 <br>
 
 ## 🥇 Competitions
-1. Cranefield, S. & Dhiman, A. Identifying Norms from Observation Using MCMC Sampling (ed Zhou, Z.-H.) Main Track, 118–124. <https://doi.org/10.24963/ijcai.2021/17> (Aug. 2021).
-2. Machine Learning 2016. https://coursera.org/share/50963ab3926e11775951a32b5cd82d28.
-3. Fundamentals of Quantitative Modeling 2017. https://coursera.org/share/587a2a6d86792ad9de9d88a269cc0297.
-4. Basic Data Descriptors and Statistical Distributions 2018. https://coursera.org/share/4f972c591b3fb10cb13a0a18f16f679f.
-5. Bayesian Methods for Machine Learning 2020. https://coursera.org/share/8b85193f4feff4b50a434bd0ddba3f00.
-6. Machine Learning with Python 2020. https://coursera.org/share/4b8ee67654d6fc864b75a0771a0e48b0.
-7. Big Data Analysis with Scala and Spark 2020. https://coursera.org/share/d1afd1c66d70f68b0ddb9731aa580a34.
+
+**Ranking Mutual Fund Houses in India** @ Inter Hall Data Analytics  _(IIT Kharagpur- 2018)_ <br>
+- Captained a gold winning team of 20 members, for developing a comprehensive framework to rank Mutual Fund Houses. 
+- Applied LSTM for multivariate temporal forecasting of Net Asset Values (NAV) of mutual funds, and Vector Auto Regression (VAR) for quantifying responsiveness of the fund houses against macroeconomic anomalies and shocks.
+- **_Technologies used:_** Python, LSTM, VAR, Clustering, Tableau.
+<br><br>
+
+**Ranking ATM providers in California** @ Inter Hall Data Analytics  _(IIT Kharagpur- 2017)_ <br>
+- Developed Gold-Winning model to evaluate Competitive Strength of ATM providers, with ATM locale & demographics. 
+- Designed Market Share metric as the measure of Competitive Advantage for each zip-code, calculated using population
+demographics of zip-code, and proximity of ATMs to economic hubs, information scraped with Google Maps API.
+- **_Technologies used:_** Python, GMaps API, R, Clustering, Tableau.
+<br><br>
+
+
+<br>
+
+## 🖥️ Computer Skills
+- **Programming languages:** C | Python | MATLAB | Scala | SQL | R | SAS | Octave | LATEX
+- **Software/Frameworks:** AWS | Spark | Hive | Tableau | VBA | Deepnote | Google Colab
 
 <br>
 
