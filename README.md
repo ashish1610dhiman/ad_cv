@@ -56,8 +56,25 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
 <br><br>
 
+<br>
+
 ### ⚙️ Internships
-dfsdfd
+
+**Summer Intern** @ American Express India, Gurgoan, India _(May 2018 — Jul 2018)_ <br>
+[Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
+- Awarded Pre-Placement Offer (PPO) to full time join Amex team, for exceptional performance shown during internship. 
+- Improved performance of External Contact propensity model, by 16%, along with a reduction in variables used by 22%. 
+- Implemented an automated process in Python and Shell, for optimizing the parameter tuning step of Gradient Boosted Decision Trees (GBDT) model, by leveraging Bayesian Optimisation and Grid Search methodology.
+- **_Technologies used:_** Python, SQL, GBDT, SAS, Tableau.
+<br><br>
+
+**Decision Science Intern** @ Quantiphi Analytics Pvt. Ltd., Mumbai, India _(May 2017 — Jul 2017)_ <br>
+[Athena's Owl](https://athenasowl.tv/technology/)
+- Adjudged Eklavya: Best Intern-2017, for exceptional work on Object detection (R-CNN) workstream of Athena’s Owl. 
+- Implemented an all-encompassing clustering module using Python & Tableau, reducing the time from 3 weeks to 4 days. 
+- Developed a module to scrape meta-tags of TV Shows, and infer critical episodes from it, using Selenium and Beautiful Soup. The meta tagging product Athena’s Owl received widespread acclaim at Google Cloud Summit-2017.
+- **_Technologies used:_** Python, R, Tableau, OpenCV.
+<br><br>
 
 <br>
 
@@ -74,6 +91,6 @@ dfsdfd
 ## 📌 On The Side
 - Conducted biweekly education sessions in the neighbouring rural areas of IIT-KGP as an NSS Volunteer b/w 2015-2017. 
 - Guided 5 juniors on the emotional & academic fronts in their first year at IIT-KGP as a Student Welfare Group volunteer. 
-- Inter Hall events (IIT Kharagpur): Gold in Ad-Design 2017 | Gold and Bronze in Case Study 2018 & 2017 respectively. 
+- Inter Hall events (IIT Kharagpur): Gold in Ad-Design 2017, Gold and Bronze in Case Study 2018 & 2017 respectively. 
 - Secured 3rd prize, HULT(2018) campus round,for a product to increase efficiency of last-leg vaccination outreach in India. 
 - Designed a portable & durable water filter, suitable to be used in rural parts of India for access to clean drinking water. • Selected in final 10 teams of Economist, a pan India case study competition on analysis of Reliance Jio (Kshitij, IIT KGP).
