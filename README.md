@@ -53,5 +53,5 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
   - Implemented a Payment Relief model, on Experian’s end, to identify customers enrolled in Covid-19 Payment Relief programs of external Creditors, by using tradeline level history of monthly balances, payments and account status codes.
   - Developed an automated pipeline to, parse risk triggers from the Bureau related to External Covid Relief Programs, generate an MIS report, and share it with the leaders in real time, with the anomalous sections highlighted.
   - Improved the accuracy of dollar predictions of External Payments model by 7%, through implementing Synthetic Minority Over sampling technique(SMOTE), for people with actual payment reports available.
-  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
+ - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
 <br><br>
