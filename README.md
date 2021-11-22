@@ -48,7 +48,7 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
   - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
 <br><br>
 
-**Assistant Manager** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
+**Risk Analystr** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
 [Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
   - Implemented a Payment Relief model, on Experian’s end, to identify customers enrolled in Covid-19 Payment Relief programs of external Creditors, by using tradeline level history of monthly balances, payments and account status codes.
   - Developed an automated pipeline to, parse risk triggers from the Bureau related to External Covid Relief Programs, generate an MIS report, and share it with the leaders in real time, with the anomalous sections highlighted.
