@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 markdown:   kramdown
 style:  kjhealy
 title: Digital CV
