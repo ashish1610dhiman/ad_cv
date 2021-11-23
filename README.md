@@ -1,6 +1,6 @@
 # Ashish Dhiman
 
-_Optmisation, Explainable AI, Data Science, Credit Risk, Geopoloitics Enthusiast_ <br>
+_Optmisation, Explainable AI, Data Science, Credit Risk, Geopolitics Enthusiast_ <br>
 
 📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+91-9805441123](+91-9805441123)
 
@@ -64,7 +64,7 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
 
 **Summer Intern** @ American Express India, Gurgoan, India _(May 2018 — Jul 2018)_ <br>
 [Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
-- Awarded Pre-Placement Offer (PPO) to full time join Amex team, for exceptional performance shown during internship. 
+- Awarded Pre-Placement Offer (PPO), for exceptional performance shown during internship. 
 - Improved performance of External Contact propensity model, by 16%, along with a reduction in variables used by 22%. 
 - Implemented an automated process in Python and Shell, for optimizing the parameter tuning step of Gradient Boosted Decision Trees (GBDT) model, by leveraging Bayesian Optimisation and Grid Search methodology.
 - **_Technologies used:_** Python, SQL, GBDT, SAS, Tableau.
