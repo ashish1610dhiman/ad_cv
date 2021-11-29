@@ -7,7 +7,7 @@ _Optmisation, Explainable AI, Data Science, Credit Risk, Geopolitics Enthusiast_
 <br>
 
 ## ♾️ Objective
-To expand my Data Science knowledge base and gain expertise in **Optimisation Methods and Explainable Machine Learning** and be at the forefront of research in the said domains. The skill-set and networking connections developed during my graduate education will help me land applied research roles in coveted firms. Working with top minds from across the world would hone my technical skills, and access to varied perspectives shall help me evolve and broaden my mindset, eventually allowing me to make progress on my start up idea on mental health.
+To augment my Data Science knowledge base and pursue expertise in **Optimisation Methods and Explainable Machine Learning**. I aspire to develop my skill-set and networking connections that will act as a stepping stone in my career and help open new pathways for me, like Applied Research roles in coveted firms or postgraduate education. These skills will also help me contribute to the availability of digital mental health services.
 
 <br>
 
@@ -131,4 +131,5 @@ demographics of zip-code, and proximity of ATMs to economic hubs, information sc
 - Guided 5 juniors on the emotional & academic fronts in their first year at IIT-KGP as a Student Welfare Group volunteer. 
 - Inter Hall events (IIT Kharagpur): 🥇Gold in Ad-Design 2017, 🥇Gold and 🥉Bronze in Case Study 2018 & 2017 respectively. 
 - Secured 3rd prize, HULT(2018) campus round,for a product to increase efficiency of last-leg vaccination outreach in India. 
-- Designed a portable & durable water filter, suitable to be used in rural parts of India for access to clean drinking water. • Selected in final 10 teams of Economist, a pan India case study competition on analysis of Reliance Jio (Kshitij, IIT KGP).
+- Designed a portable & durable water filter, suitable to be used in rural parts of India for access to clean drinking water. 
+- Selected in final 10 teams of Economist, a pan India case study competition on analysis of Reliance Jio (Kshitij, IIT KGP).
