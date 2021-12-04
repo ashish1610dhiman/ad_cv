@@ -47,7 +47,8 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
   - Envisaged and implemented a novel domain of information source by transforming the trade level supplementary and joint account linkages present on the Experian bureau’s end to create an inter-customer linkage relationship graph.
   - Leveraged the inter-customer relationship graph to create modeling attributes based on primary and secondary linkages, helping prevent annual credit default of $2.5 million, along with better identification of Credit Bust Out(CBO) fraud.
   - Implemented and Investigated the appropriateness of two feature selection algorithms, namely Gradient Boosted Feature Selection(GBFS) and min Redundancy and Maximum Relevance(mRMR), for application in Credit Risk context.
-  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
+  - Part of the team that implemented an automated tool to parse metadata like name, contact, education, skills, etc., from the resume pdf files using a combination of regex rules, zero-shot classifier and Named Entity recognition (NER) model
+  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS, NER.
 <br><br>
 
 **Risk Analyst** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
