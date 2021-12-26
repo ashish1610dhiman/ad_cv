@@ -14,7 +14,7 @@ To augment my Data Science knowledge base and pursue expertise in **Optimisation
 ## 👩🏼‍🎓 Education
 
 **Indian Institue of Technology, Kharagpur**  _(Jul 2015 - May 2019)_ <br>
-B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisation Theory | CGPA 8.32/10
+B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisation Theory | CGPA 8.32/10 | Class Rank 2
 
 
 <br>
@@ -101,8 +101,8 @@ demographics of zip-code, and proximity of ATMs to economic hubs, information sc
 <br>
 
 ## 🖥️ Computer Skills
-- **Programming languages:** C / Python / MATLAB / Scala / SQL / R / SAS / Octave / LATEX
-- **Software/Frameworks:** AWS / Spark / Hive / Tableau / VBA / Deepnote / Google Colab
+- **Programming languages:** C / Python / MATLAB / Scala / SQL / R / SAS / Octave / LATEX / Bash
+- **Software/Frameworks:** AWS / Spark / Hive / Tableau / Deepnote / Google Colab
 
 <br>
 
