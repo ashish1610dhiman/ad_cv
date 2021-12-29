@@ -63,7 +63,7 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
 
 ### ⚙️ Internships
 
-**Summer Intern** @ American Express India, Gurgoan, India _(May 2018 — Jul 2018)_ <br>
+**Risk Management Intern** @ American Express India, Gurgoan, India _(May 2018 — Jul 2018)_ <br>
 [Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
 - Awarded Pre-Placement Offer (PPO), for exceptional performance shown during internship. 
 - Improved performance of External Contact propensity model, by 16%, along with a reduction in variables used by 22%. 
