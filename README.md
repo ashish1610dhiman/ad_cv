@@ -101,7 +101,7 @@ demographics of zip-code, and proximity of ATMs to economic hubs, information sc
 <br>
 
 ## 🖥️ Computer Skills
-- **Programming languages:** C / Python / MATLAB / Scala / SQL / R / SAS / Octave / LATEX / Bash
+- **Programming languages:** C / C++ / Python / MATLAB / Scala / SQL / R / SAS / Octave / LATEX / Bash
 - **Software/Frameworks:** AWS / Spark / Hive / Tableau / Deepnote / Google Colab
 
 <br>
