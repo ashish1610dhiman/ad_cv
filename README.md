@@ -13,8 +13,9 @@ To augment my Data Science knowledge base and pursue expertise in **Optimisation
 
 ## 👩🏼‍🎓 Education
 
-**Indian Institue of Technology, Kharagpur**  _(Aug 2023 - Dec 2023)_ <br>
+**Georgia Institue of Technology, Atlanta**  _(Aug 2023 - Dec 2023)_ <br>
 MS in Analytics: Computational Data Science and Analytical Modelling Track | CGPA: 1st semester
+
 
 **Indian Institue of Technology, Kharagpur**  _(Jul 2015 - May 2019)_ <br>
 B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisation Theory | CGPA 8.32/10 | Class Rank 2
