@@ -2,7 +2,7 @@
 
 _Optmisation, Explainable AI, Data Science, Credit Risk, Geopolitics Enthusiast_ <br>
 
-📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+91-9805441123](+91-9805441123)
+📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+1-4045090254](+1-4045090254)
 
 <br>
 
@@ -21,6 +21,28 @@ B.Tech(Honours) in Aerospace Engineering, with Micro Specialisation in Optimisat
 
 
 <br>
+
+## 👩🏼‍💻 Work Experience
+
+**Assistant Manager** @ American Express India, Gurgoan, India _(Aug 2021 — Present)_ <br>
+[Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
+  - Envisaged and implemented a novel domain of information source by transforming the trade level supplementary and joint account linkages present on the Experian bureau’s end to create an inter-customer linkage relationship graph.
+  - Leveraged the inter-customer relationship graph to create modeling attributes based on primary and secondary linkages, helping prevent annual credit default of $2.5 million, along with better identification of Credit Bust Out(CBO) fraud.
+  - Implemented and Investigated the appropriateness of two feature selection algorithms, namely Gradient Boosted Feature Selection(GBFS) and min Redundancy and Maximum Relevance(mRMR), for application in Credit Risk context.
+  - Part of the team that implemented an automated tool to parse metadata like name, contact, education, skills, etc., from the resume pdf files using a combination of regex rules, zero-shot classifier and Named Entity recognition (NER) model
+  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS, NER.
+<br><br>
+
+**Risk Analyst** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
+[Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
+  - Implemented a Payment Relief model, on Experian’s end, to identify customers enrolled in Covid-19 Payment Relief programs of external Creditors, by using tradeline level history of monthly balances, payments and account status codes.
+  - Developed an automated pipeline to, parse risk triggers from the Bureau related to External Covid Relief Programs, generate an MIS report, and share it with the leaders in real time, with the anomalous sections highlighted.
+  - Improved the accuracy of dollar predictions of External Payments model by 7%, through implementing Synthetic Minority Over sampling technique(SMOTE), for people with actual payment reports available.
+ - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
+<br><br>
+
+<br>
+
 
 ## 📖 Research Experience
 
@@ -43,26 +65,6 @@ Kernel Search framework to improve the return per unit risk performance by 12% o
   - **_Technologies used:_** Python, R, Linear & Convex Optimisation, NMF/NPCA, Kernel Search Methods.
 <br><br>
 
-## 👩🏼‍💻 Work Experience
-
-**Assistant Manager** @ American Express India, Gurgoan, India _(Aug 2021 — Present)_ <br>
-[Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
-  - Envisaged and implemented a novel domain of information source by transforming the trade level supplementary and joint account linkages present on the Experian bureau’s end to create an inter-customer linkage relationship graph.
-  - Leveraged the inter-customer relationship graph to create modeling attributes based on primary and secondary linkages, helping prevent annual credit default of $2.5 million, along with better identification of Credit Bust Out(CBO) fraud.
-  - Implemented and Investigated the appropriateness of two feature selection algorithms, namely Gradient Boosted Feature Selection(GBFS) and min Redundancy and Maximum Relevance(mRMR), for application in Credit Risk context.
-  - Part of the team that implemented an automated tool to parse metadata like name, contact, education, skills, etc., from the resume pdf files using a combination of regex rules, zero-shot classifier and Named Entity recognition (NER) model
-  - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS, NER.
-<br><br>
-
-**Risk Analyst** @ American Express India, Gurgoan, India _(Jul 2019 — Jul 2021)_ <br>
-[Consumer Collection Deciscion Science, Credit and Fraud Risk](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/?intlink=us-amex-career-en-us-careerArea-Analytics)
-  - Implemented a Payment Relief model, on Experian’s end, to identify customers enrolled in Covid-19 Payment Relief programs of external Creditors, by using tradeline level history of monthly balances, payments and account status codes.
-  - Developed an automated pipeline to, parse risk triggers from the Bureau related to External Covid Relief Programs, generate an MIS report, and share it with the leaders in real time, with the anomalous sections highlighted.
-  - Improved the accuracy of dollar predictions of External Payments model by 7%, through implementing Synthetic Minority Over sampling technique(SMOTE), for people with actual payment reports available.
- - **_Technologies used:_** Python, Spark, SQL, AWS, GBDT, SAS.
-<br><br>
-
-<br>
 
 ### ⚙️ Internships
 
