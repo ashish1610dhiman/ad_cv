@@ -1,6 +1,6 @@
 # Ashish Dhiman
 
-_Optmisation, Explainable AI, Data Science, Credit Risk, Geopolitics Enthusiast_ <br>
+_Optimisation, Explainable AI, Data Science, Credit Risk, Geopolitics Enthusiast_ <br>
 
 📧[Email](mailto:ashish1610dhiman@gmail.com)  / 🔗[LinkedIn](https://www.linkedin.com/in/ashish1610dhiman/) / 🔗[GitHub](https://github.com/ashish1610dhiman/) / 📞[+1-4045090254](+1-4045090254)
 
